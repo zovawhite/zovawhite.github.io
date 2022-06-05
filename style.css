@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    border: solid 2px;
+}
+
+.item {
+    border: solid 2px;
+}
