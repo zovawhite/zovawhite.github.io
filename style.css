@@ -10,10 +10,11 @@
     background-color: darkBlue;
     height: 100%;
     margin: -2px -2px -2px -2px;
+    padding: 1px 1px 1px 1px;
 }
 
-a {
-    text-decoration: none;
+button {
+    background-color: darkBlue;
     color: white;
 }
 
